@@ -1,2 +1,2 @@
 # literacy
-I love [wikipedia](URL)!
+I love [wikipedia](https://ja.wikipedia.org)!
