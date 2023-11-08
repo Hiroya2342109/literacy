@@ -1,11 +1,11 @@
 em{color:green;}
 em{color:blue;}
 
-{color: white;
+th{color: white;
         background: orange;}
 
 
-td{
+th,td{
         border: 1px solid black;
 }
 
